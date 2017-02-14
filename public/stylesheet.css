@@ -1,0 +1,54 @@
+@media (min-width:1281px){
+	body {
+		border: 5px solid black;
+		margin: 10px 100px 10px 300px;
+	}
+
+	.bodyOfResume{
+		margin-left: 5px;
+		 /*font-family: "Courier New";*/
+	}
+
+	.centerTitle{
+		
+		text-align: center;
+		
+	}
+	
+	.columnRight{
+	margin-left: 335px;
+	}
+}
+
+
+
+
+@media only screen and (max-width: 500px) {
+    body {  
+        border: 5px solid black;
+		margin: 2px 1px 2px 1px;
+    	}
+
+	.bodyOfResume{
+		margin-left: 5px;
+		 /*font-family: "Courier New";*/
+	}
+
+	.centerTitle{
+		
+		text-align: center;
+		
+	}
+	
+	.newLine{
+		
+		display: block;
+		margin-left: 30px;
+		
+	}
+	
+	.columnRight{
+	margin-left: 30px;
+	
+	}
+}
